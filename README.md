@@ -10,7 +10,7 @@ I am Vince Labastida, currently pursuing my dream to become a Software Engineer 
 <p align="center">
 <img width="48%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=vincebase&show_icons=true&theme=vue-dark&count_private=true" />
 
-<img width="48%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincebase&hide=tex,php,python,shell,jupyter%20notebook&theme=vue-dark&custom_title=Technologies%20Use&langs_count=10&layout=compact" />
+<img width="48%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincebase&hide=tex,php,python,shell,jupyter%20notebook&theme=vue-dark&custom_title=Technologies%20Used&langs_count=10&layout=compact" />
 </p>
 <hr>
 ### MY FAVORITE LANGUAGES
