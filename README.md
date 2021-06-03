@@ -7,18 +7,12 @@ I am Vince Labastida, currently pursuing my dream to become a Software Engineer 
 [![Instagram Badge](https://img.shields.io/badge/-@iamthevincicode-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iamthevincicode/)](https://www.instagram.com/iamthevincicode/)
 [![Gmail Badge](https://img.shields.io/badge/-iamthevincicode@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 <hr>
-
 <p align="center">
 <img width="48%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=vincebase&show_icons=true&theme=vue-dark&count_private=true" />
 
 <img width="48%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincebase&hide=tex,php,python,shell,jupyter%20notebook&theme=vue-dark&custom_title=Web%20Development&langs_count=10&layout=compact" />
-
-
 </p>
-
-
-
-
+<hr>
 ### MY FAVORITE LANGUAGES
 
 <p>
@@ -29,5 +23,5 @@ I am Vince Labastida, currently pursuing my dream to become a Software Engineer 
    <img src="https://img.shields.io/badge/NodeJS%20-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=black&color=blue&style=for-the-badge" />
 </p>
-
+<hr>
 
