@@ -1,4 +1,4 @@
-### Hi! I am Vince 👋
+# Hi! I am Vince 👋
 
 
 I am Vince Labastida, currently pursuing my dream to become a Software Engineer [@KodeGo PH](https://kodego.ph/). I love working on the frontend aswell as backend. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
@@ -14,7 +14,7 @@ I am Vince Labastida, currently pursuing my dream to become a Software Engineer 
 </p>
 <hr>
 
-MY FAVORITE LANGUAGES
+## Tools & Techs I like to use the most
 
 <p>
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
