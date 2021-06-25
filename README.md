@@ -22,7 +22,6 @@ I am Vince Labastida, currently pursuing my dream to become a Software Engineer 
     <img src="https://img.shields.io/badge/Express%20-FF110D.svg?logo=express&logoColor=black&style=for-the-badge" />
       <img src="https://img.shields.io/badge/React%20-black.svg?logo=react&logoColor=black&color=skyblue&style=for-the-badge" />
    <img src="https://img.shields.io/badge/NodeJS%20-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=black&color=blue&style=for-the-badge" />
 </p>
 <hr>
 
