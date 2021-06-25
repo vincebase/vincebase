@@ -1,4 +1,4 @@
-# Hi! I am Vince 👋
+# Hi! I'm Dev Vinci <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 I am Vince Labastida, currently pursuing my dream to become a Software Engineer [@KodeGo PH](https://kodego.ph/). I love working on the frontend aswell as backend. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
