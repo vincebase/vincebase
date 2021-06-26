@@ -1,7 +1,7 @@
 # Hi! I'm Dev Vinci <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am Vince Labastida, currently pursuing my dream to become a Software Engineer [@KodeGo PH](https://kodego.ph/). I love working on the frontend aswell as backend. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Vince Labastida, currently pursuing my dream to become a Web Developer/Mobile Developer. I love working on the frontend aswell as backend. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-VinceAndreiLabastida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vince-andrei-labastida-135685213/)](https://www.linkedin.com/in/vince-andrei-labastida-135685213/)
 [![Instagram Badge](https://img.shields.io/badge/-@iamthevincicode-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iamthevincicode/)](https://www.instagram.com/iamthevincicode/)
